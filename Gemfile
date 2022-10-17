@@ -30,3 +30,5 @@ end
 
 
 gem "dry-core", "= 0.9.0"
+
+gem "dry-struct", "~> 1.5"
