@@ -28,3 +28,5 @@ group :development do
   # gem "spring"
 end
 
+
+gem "dry-core", "= 0.9.0"
