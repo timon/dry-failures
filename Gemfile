@@ -31,4 +31,4 @@ end
 
 gem "dry-core", "= 0.9.0"
 
-gem "dry-struct", "~> 1.5"
+gem "dry-struct", github: "dry-rb/dry-struct", ref: "183-fix-conflict-with-extensions-files"
